@@ -1,2 +1,2 @@
-# ProjetosDeCursos
-Aqui irei mostrar alguns trabalhos e projetos que fiz com o auxílio de cursos.
+# projeto Google glass
+Foi desenvolvido na plataforma de cursos chamada curso em video e ministrado pelo professwor Gustavo Guanabara.
