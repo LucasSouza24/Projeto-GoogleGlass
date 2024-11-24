@@ -1,5 +1,5 @@
 # projeto Google glass
-Foi desenvolvido na plataforma de cursos chamada curso em video e ministrado pelo professwor Gustavo Guanabara.
+Projeto desenvolvidor no curso de HTML5 do site Curso em Video do professor Gustavo Guanabara. 
 
 ## Linguagens utilizada:
 - HTML
